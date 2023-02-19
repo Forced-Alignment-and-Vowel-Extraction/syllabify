@@ -3,3 +3,6 @@ eval/*
 *.py[co]
 .DS_Store
 
+venv/
+poetry.lock
+dist/

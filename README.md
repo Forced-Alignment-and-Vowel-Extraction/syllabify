@@ -1,5 +1,3 @@
-=== Port for Python3
-
 syllabify.py is a Python module for syllabifying ARPABET transcriptions; 
 the method used is informed by subtle details of English phonology.
 

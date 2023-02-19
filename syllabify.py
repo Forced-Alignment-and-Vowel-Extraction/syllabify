@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # Copyright (c) 2012-2013 Kyle Gorman <gormanky@ohsu.edu>
+# Modified 2023 Josef Fruehwald 
 #
 # Permission is hereby granted, free of charge, to any person obtaining a
 # copy of this software and associated documentation files (the
